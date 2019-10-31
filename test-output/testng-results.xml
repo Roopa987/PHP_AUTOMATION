@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48683" started-at="2019-10-31T07:27:46Z" finished-at="2019-10-31T07:28:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48683" started-at="2019-10-31T07:27:46Z" finished-at="2019-10-31T07:28:34Z">
+      <class name="PHP_TRAVELS.PHP_AUTOMATION.login">
+        <test-method status="PASS" signature="main()[pri:0, instance:PHP_TRAVELS.PHP_AUTOMATION.login@598067a5]" name="main" duration-ms="14058" started-at="2019-10-31T12:57:46Z" finished-at="2019-10-31T12:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- PHP_TRAVELS.PHP_AUTOMATION.login -->
+      <class name="PHP_TRAVELS.PHP_AUTOMATION.Testflightsearch">
+        <test-method status="PASS" signature="flightSearch()[pri:0, instance:PHP_TRAVELS.PHP_AUTOMATION.Testflightsearch@5f341870]" name="flightSearch" duration-ms="21652" started-at="2019-10-31T12:58:00Z" finished-at="2019-10-31T12:58:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightSearch -->
+      </class> <!-- PHP_TRAVELS.PHP_AUTOMATION.Testflightsearch -->
+      <class name="PHP_TRAVELS.PHP_AUTOMATION.registration">
+        <test-method status="PASS" signature="main()[pri:0, instance:PHP_TRAVELS.PHP_AUTOMATION.registration@553f17c]" name="main" duration-ms="12900" started-at="2019-10-31T12:58:22Z" finished-at="2019-10-31T12:58:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- PHP_TRAVELS.PHP_AUTOMATION.registration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
